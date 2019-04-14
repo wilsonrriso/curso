@@ -1,0 +1,29 @@
+[33mcommit d7b1d15ae095f6b1d69e6b1ae04d1239f459e4b2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Wilson JR <wilsonrriso@gmail.com>
+Date:   Sun Apr 14 12:22:41 2019 -0300
+
+    Criando Repository e Service para Categoria
+
+[33mcommit b8765434bf93d015bf28f07f0d2664eccb40140b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Wilson JR <wilsonrriso@gmail.com>
+Date:   Fri Apr 12 17:27:19 2019 -0300
+
+    Banco de dados H2 e criação automática da base de dados
+
+[33mcommit d4ee6cc157a4980f691a7033e73dae95d89ef8a5[m
+Author: Wilson JR <wilsonrriso@gmail.com>
+Date:   Fri Apr 12 14:58:59 2019 -0300
+
+    criada primeira classe dominio
+
+[33mcommit 667d848a571135684ed163534070f3ee0144a271[m
+Author: Wilson JR <wilsonrriso@gmail.com>
+Date:   Fri Apr 12 14:29:22 2019 -0300
+
+    REST testado e funcionando
+
+[33mcommit 5fbc0919d922e8a9b928fd740a9cd810d71b95c3[m
+Author: Wilson JR <wilsonrriso@gmail.com>
+Date:   Fri Apr 12 12:31:02 2019 -0300
+
+    Projeto criado
